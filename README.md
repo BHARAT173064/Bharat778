@@ -1,5 +1,3 @@
-About Me
-
 Name: Bharat Gund
 Role: Blockchain Developer
 
